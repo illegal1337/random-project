@@ -1,6 +1,6 @@
 import discord; from discord.ext import commands
 
-token = ""
+token = "" # if you want to run this on replit i recommend replace with -> token = os.getenv('token') and create a new secret
 
 prefix = "$"
 
